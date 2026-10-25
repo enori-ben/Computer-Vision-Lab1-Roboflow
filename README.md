@@ -36,8 +36,8 @@ This laboratory introduces four computer vision annotation tasks using Roboflow.
 ## Repository Contents
 - `answers.md`: Checkpoint answers and final comparison.
 - `roboflow-links.md`: Links to the four Roboflow projects.
-- `screenshots/`: Screenshots of completed annotations.
-
+- Four PNG screenshots in the repository root, documenting the completed Roboflow projects.
+- 
 ## Tools
 - Roboflow
 - Computer Vision
